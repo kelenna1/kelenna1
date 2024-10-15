@@ -1,4 +1,4 @@
-[![MasterHead](**[https://camo.githubusercontent.com/15e18daf23fc4245b30248bdbd087cacf017b28adf48d4da256ce243a437128f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966](https://developers.giphy.com/docs/api/)**)](https://kelenna1.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://kelenna1.io)
 <h1 align="center">Hi there 👋, I'm Okolie Emmanuel</h1>
 <h3 align="center">A passionate Back-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712068145310?e=2147483647&v=beta&t=YaCB87ukopRysA4thCQBpz0Ti-mzgAy-R0QFlKK_-vg">
