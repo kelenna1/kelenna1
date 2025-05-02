@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/__kelenna7" target="blank"><img src="https://img.shields.io/twitter/follow/__kelenna7?logo=twitter&style=for-the-badge" alt="__kelenna7" /></a> </p>
 
-- 🔭 I’m currently working on **Personal portfolio**
+- 🔭 I’m currently working on **Personal SaaS**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently Interning at **TurningWays**
 
 - 📫 How to reach me **leoemmanuel93@gmail.com**
 
