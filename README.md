@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Building my startup**
 
-- 🌱 To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it’s incredibly valuable**✨**
+- 🌱 The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive**✨**
 
 - 📫 How to reach me **leoemmanuel93@gmail.com**
 
