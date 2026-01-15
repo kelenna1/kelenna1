@@ -1,15 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/7f/a2/43/7fa243b1a78cc227e3fed2d878cfecc8.gif)](https://kelenna1.io)
 <h1 align="center">Hi there 👋, I'm Okolie Emmanuel</h1>
-<h3 align="center">A passionate Back-end developer</h3>
+<h3 align="center">A Cracked Back-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQF_GQBPe3v4PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712068145310?e=2147483647&v=beta&t=YaCB87ukopRysA4thCQBpz0Ti-mzgAy-R0QFlKK_-vg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelenna1&label=Profile%20views&color=0e75b6&style=flat" alt="kelenna1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__kelenna7" target="blank"><img src="https://img.shields.io/twitter/follow/__kelenna7?logo=twitter&style=for-the-badge" alt="__kelenna7" /></a> </p>
 
-- 🔭 I’m currently working on **Personal SaaS**
+- 🔭 I’m currently working on **Building my startup**
 
-- 🌱 I’m currently Interning at **TurningWays**
+- 🌱 To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it’s incredibly valuable**✨**
 
 - 📫 How to reach me **leoemmanuel93@gmail.com**
 
